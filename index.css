@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.2;
+}
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-top: 20px;
+    display: inline-block;
+}
+a{
+    color:#fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+body{
+    height: 100vh;
+}
+main{
+    padding: 30px;
+    
+}
+footer{
+    position:absolute;
+    bottom:0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    right:0px;
+    left:0px;
+}
